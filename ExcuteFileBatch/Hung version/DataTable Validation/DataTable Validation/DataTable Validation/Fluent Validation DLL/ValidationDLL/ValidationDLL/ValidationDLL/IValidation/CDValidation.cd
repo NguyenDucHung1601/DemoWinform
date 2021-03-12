@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ValidationDLL.ValidateResult">
+    <Position X="15.25" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEAAkAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IValidation\ValidateResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValidationDLL.ValidationFailure">
+    <Position X="18.25" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEAAAAAAAAAAoAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>IValidation\ValidationFailure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValidationDLL.ValidationContext&lt;T&gt;">
+    <Position X="7.75" Y="5.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIIIAAEABAgGAAAAIABEAAAAAAAAAgAAAAAAAAAAEQA=</HashCode>
+      <FileName>IValidation\IValidationContext.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ValidationDLL.ExcuteValidator&lt;T&gt;">
+    <Position X="11.75" Y="5.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAACAABBAAAAAAAAAAAAAAAAUAARAACAAgAA=</HashCode>
+      <FileName>IValidation\ExcuteValidator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ValidationDLL.RuleCollection&lt;T&gt;">
+    <Position X="13.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACIAAAAAAAAASBAAAAAABAQAAAAAAAAEAAAAAAAEAAA=</HashCode>
+      <FileName>IValidation\RuleCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ValidationDLL.IValidator">
+    <Position X="10.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAABAAAAAAAAAAAAAAAABAAQAAAAAAAA=</HashCode>
+      <FileName>IValidation\IValidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ValidationDLL.IValidationRule">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAAAQAAAABAAA=</HashCode>
+      <FileName>IValidation\IValidationRule.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ValidationDLL.IValidationContext">
+    <Position X="8.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAAEAAAAIABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IValidation\IValidationContext.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

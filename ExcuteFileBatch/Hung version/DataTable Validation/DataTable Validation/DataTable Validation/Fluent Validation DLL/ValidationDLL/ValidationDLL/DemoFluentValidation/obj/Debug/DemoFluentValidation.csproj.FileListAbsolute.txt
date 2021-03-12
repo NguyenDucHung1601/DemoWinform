@@ -1,0 +1,469 @@
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe.config
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.pdb
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csprojAssemblyReference.cache
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate.resources
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.Properties.Resources.resources
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.GenerateResource.cache
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe.licenses
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CopyComplete
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe
+C:\Users\truongpv\Desktop\Phung Truong\Project C#\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.pdb
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe.config
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.pdb
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csprojAssemblyReference.cache
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate.resources
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.Properties.Resources.resources
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.GenerateResource.cache
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe.licenses
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CopyComplete
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.pdb
+C:\Users\hungnd\Desktop\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate_1_table.resources
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe.config
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.pdb
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate.resources
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate_1_table.resources
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe.licenses
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe
+C:\Users\ADMIN\Desktop\Fluent Validation DLL\New folder\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.pdb
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe.config
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.pdb
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate.resources
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate_1_table.resources
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe.licenses
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe
+C:\Users\ADMIN\Desktop\TTS VCS\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.pdb
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe.config
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.exe
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DemoFluentValidation.pdb
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\FluentValidation.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csprojAssemblyReference.cache
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate.resources
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormValidate_1_table.resources
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.Properties.Resources.resources
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.GenerateResource.cache
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe.licenses
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.CopyComplete
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe
+C:\Users\hungnd\Desktop\DataTable Validation\DataTable Validation\DataTable Validation\Fluent Validation DLL\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.pdb

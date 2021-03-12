@@ -1,0 +1,5 @@
+H:\CheckoutSVN\ExcuteFileBatch\TruongHung version\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csprojResolveAssemblyReference.cache
+H:\CheckoutSVN\ExcuteFileBatch\TruongHung version\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.FormBaoCaoTaiChinhTongHop.resources
+H:\CheckoutSVN\ExcuteFileBatch\TruongHung version\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.Properties.Resources.resources
+H:\CheckoutSVN\ExcuteFileBatch\TruongHung version\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.csproj.GenerateResource.Cache
+H:\CheckoutSVN\ExcuteFileBatch\TruongHung version\ValidationDLL\ValidationDLL\DemoFluentValidation\obj\Debug\DemoFluentValidation.exe.licenses

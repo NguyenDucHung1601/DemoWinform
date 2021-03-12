@@ -1,0 +1,208 @@
+#region License
+// Copyright (c) .NET Foundation and contributors.
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+// http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+//
+// The latest version of this file can be found at https://github.com/FluentValidation/FluentValidation
+#endregion
+
+namespace FluentValidation.Internal {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Linq.Expressions;
+    using System.Reflection;
+    using System.Threading;
+    using System.Threading.Tasks;
+    using Resources;
+    using Results;
+    using Validators;
+    using ValidationDLL;
+
+    /// <summary>
+    /// Defines a rule associated with a property.
+    /// </summary>
+    public class PropertyRule : IValidationRule {
+        private readonly List<IPropertyValidator> _validators = new List<IPropertyValidator>();
+        private Func<CascadeMode> _cascadeModeThunk;
+        private string _propertyDisplayName;
+        private string _propertyName;
+        private string[] _ruleSet = new string[0];
+        private Func<IValidationContext, bool> _condition;
+        private Func<IValidationContext, CancellationToken, Task<bool>> _asyncCondition;
+
+#pragma warning disable 618
+        //TODO: Replace with Func<IValidationContext, string> for FV 10.
+        private IStringSource _displayNameSource;
+#pragma warning restore 618
+
+        /// <summary>
+        /// Condition for all validators in this rule.
+        /// </summary>
+        public Func<IValidationContext, bool> Condition => _condition;
+
+        /// <summary>
+        /// Asynchronous condition for all validators in this rule.
+        /// </summary>
+        public Func<IValidationContext, CancellationToken, Task<bool>> AsyncCondition => _asyncCondition;
+
+        /// <summary>
+        /// Property associated with this rule.
+        /// </summary>
+        public MemberInfo Member { get; }
+
+        /// <summary>
+        /// Function that can be invoked to retrieve the value of the property.
+        /// </summary>
+        public Func<object, object> PropertyFunc { get; }
+
+        /// <summary>
+        /// Expression that was used to create the rule.
+        /// </summary>
+        public LambdaExpression Expression { get; }
+
+        /// <summary>
+        /// String source that can be used to retrieve the display name (if null, falls back to the property name)
+        /// </summary>
+        [Obsolete("This property is deprecated and will be removed in FluentValidation 10. Use the GetDisplayName and SetDisplayName instead.")]
+        public IStringSource DisplayName {
+            get => _displayNameSource;
+            set => _displayNameSource = value;
+        }
+
+        /// <summary>
+        /// Sets the display name for the property.
+        /// </summary>
+        /// <param name="name">The property's display name</param>
+        public void SetDisplayName(string name) {
+#pragma warning disable 618
+            _displayNameSource = new StaticStringSource(name);
+#pragma warning restore 618
+        }
+
+        /// <summary>
+        /// Sets the display name for the property using a function.
+        /// </summary>
+        /// <param name="factory">The function for building the display name</param>
+
+
+        /// <summary>
+        /// Rule set that this rule belongs to (if specified)
+        /// </summary>
+        public string[] RuleSets {
+            get => _ruleSet;
+            set => _ruleSet = value ?? new string[0];
+        }
+
+        /// <summary>
+        /// Function that will be invoked if any of the validators associated with this rule fail.
+        /// </summary>
+
+
+        /// <summary>
+        /// The current validator being configured by this rule.
+        /// </summary>
+        public IPropertyValidator CurrentValidator => _validators.LastOrDefault();
+
+        /// <summary>
+        /// Type of the property being validated
+        /// </summary>
+        public Type TypeToValidate { get; }
+
+        /// <summary>
+        /// Cascade mode for this rule.
+        /// </summary>
+        public CascadeMode CascadeMode {
+            get => _cascadeModeThunk();
+            set => _cascadeModeThunk = () => value;
+        }
+
+        /// <summary>
+        /// Validators associated with this rule.
+        /// </summary>
+        public IEnumerable<IPropertyValidator> Validators => _validators;
+
+        /// <summary>
+        /// Creates a new property rule.
+        /// </summary>
+        /// <param name="member">Property</param>
+        /// <param name="propertyFunc">Function to get the property value</param>
+        /// <param name="expression">Lambda expression used to create the rule</param>
+        /// <param name="cascadeModeThunk">Function to get the cascade mode.</param>
+        /// <param name="typeToValidate">Type to validate</param>
+        /// <param name="containerType">Container type that owns the property</param>
+
+
+
+
+        /// <summary>
+        /// Adds a validator to the rule.
+        /// </summary>
+        public void AddValidator(IPropertyValidator validator) {
+            _validators.Add(validator);
+        }
+
+        /// <summary>
+        /// Replaces a validator in this rule. Used to wrap validators.
+        /// </summary>
+        public void ReplaceValidator(IPropertyValidator original, IPropertyValidator newValidator) {
+            var index = _validators.IndexOf(original);
+
+            if (index > -1) {
+                _validators[index] = newValidator;
+            }
+        }
+
+        /// <summary>
+        /// Remove a validator in this rule.
+        /// </summary>
+        public void RemoveValidator(IPropertyValidator original) {
+            _validators.Remove(original);
+        }
+
+        /// <summary>
+        /// Clear all validators from this rule.
+        /// </summary>
+        public void ClearValidators() {
+            _validators.Clear();
+        }
+
+        public IEnumerable<ValidationDLL.ValidationFailure> Validate(IValidationContext context) {
+            throw new NotImplementedException();
+        }
+
+        public Task<IEnumerable<ValidationDLL.ValidationFailure>> ValidateAsync(IValidationContext context, CancellationToken cancellation) {
+            throw new NotImplementedException();
+        }
+
+        /// <summary>
+        /// Returns the property name for the property being validated.
+        /// Returns null if it is not a property being validated (eg a method call)
+        /// </summary>
+
+
+        /// <summary>
+        /// Allows custom creation of an error message
+        /// </summary>
+        public Func<MessageBuilderContext, string> MessageBuilder { get; set; }
+
+        /// <summary>
+        /// Dependent rules
+        /// </summary>
+        public List<IValidationRule> DependentRules { get; }
+
+        public Func<object, object> Transformer { get; set; }
+
+    }
+
+}
